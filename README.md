@@ -79,3 +79,33 @@ Links for community
   <a href="https://mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" /></a>
   <a href="https://www.sqlite.org/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36" /></a>
 </div>
+
+### My tools
+
+<img align="right" src="justleave.webp" width="300" height="275"/>
+<img align="right" src="giphy (1).gif" width="300" height="275" />
+
+<div align="left";>
+  <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" /></a>
+  <a href="https://gulpjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="36" /></a>
+  <a href="https://getcomposer.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="36" /></a>
+  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" /></a>
+  <a href="https://docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" /></a>
+  <a href="https://www.sourcetreeapp.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" width="36" /></a>
+</div>
+
+### Editors
+
+<div align="left";>
+  <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" /></a>
+  <a href="https://jetbrains.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="36" /></a>
+  <a href="https://micro-editor.github.io"><img src="https://avatars.githubusercontent.com/u/21361806?s=280&v=4" width="36" /></a>
+  <a href="https://neovim.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" width="36" /></a>
+</div>
+
+### System's
+
+<div align="left";>
+  <a href="https://www.microsoft.com/en-us/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="36" /></a>
+  <a href="https://ubuntu.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="36" width="36" /></a>
+</div>
