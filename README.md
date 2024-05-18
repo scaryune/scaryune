@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Hello World! 👋
 
-My name is Débora Scarlet, but you can call me **scaryune**. I'm portuguese transgender woman, 26 years old. I'm interdisciplinary Fashion Designer, Dedicated to exploring the future of fashion: fashion art, wearable technology, That loves learning about programming languages, technology, astronomy, music and others stuffs. I started to programmer as a 12 years old, in the [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) language (*Hard times*).
+My name is Débora Scarlett, but you can call me **scaryune**. I'm portuguese transgender woman, 26 years old. I'm interdisciplinary Fashion Designer, Dedicated to exploring the future of fashion: fashion art, wearable technology, That loves learning about programming languages, technology, astronomy, music and others stuffs. I started to programmer as a 12 years old, in the [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) language (*Hard times*).
 
 <img align="right" src="re-l-ergo-proxy.gif" width="300" height="275"/>
 
