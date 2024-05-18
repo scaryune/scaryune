@@ -36,8 +36,8 @@ My name is Débora Scarlet, but you can call me **scaryune**. I'm portuguese tra
 
 My social media
 
-* [Dev.to](https://dev.to/kalazirys)
-* [Twitter](https://twitter.com/kalazirys)
+* [Dev.to](https://dev.to/scaryune)
+* [Twitter](https://twitter.com/scaryune)
 
 Education
 * Management and Programming of Computer Systems at [DIDAXIS](https://www.didaxis.pt/)
