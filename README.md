@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="unnamed (1).jpg" width="500" height="280">
+  <img src="unnamed (1).jpg" width="500" height="300">
 </div>
 
 ## Hello World! 👋
